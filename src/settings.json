@@ -1,0 +1,87 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Stay informed about our latest offerings, exclusive content, and special discounts by subscribing to our newsletter. Don't miss out!",
+        "emailLabel": "Email Address",
+        "heading": "Get the latest updates on Bestby Car!"
+      }
+    },
+    {
+      "id": "HeroSplitWithImage",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Redefine Your Journey with Premium Performance and Style",
+        "title": "Drive Excellence with Bestby"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Excellence with Bestby",
+  "subtitle": "Redefine Your Journey with Premium Performance and Style"
+}
